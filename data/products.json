@@ -1,0 +1,1555 @@
+[
+  {
+    "id": "promise-acetamiprid-20-sp",
+    "partNo": "20% SP",
+    "name": "Promise",
+    "category": "Insecticides",
+    "tagline": "Acetamiprid 20% SP — systemic control of sucking pests.",
+    "description": "Promise is a broad-spectrum insecticide containing Acetamiprid 20% SP. Acetamiprid is a systemic neonicotinoid that is absorbed and translocated through the plant, controlling sucking pests by contact and ingestion. Supplied as a 500 g water-soluble powder that mixes readily for foliar spraying. Refer to the enclosed leaflet for approved crops, dosage and timing. No specific antidote is available; in case of exposure, treat symptomatically. Do not spray where it may harm bees, fish, livestock, wild birds or other animals.",
+    "specs": [
+      {
+        "label": "Active ingredient",
+        "value": "Acetamiprid 20% w/w"
+      },
+      {
+        "label": "Formulation",
+        "value": "Soluble Powder (SP)"
+      },
+      {
+        "label": "Net content",
+        "value": "500 g"
+      },
+      {
+        "label": "Mode of action",
+        "value": "Systemic (neonicotinoid)"
+      },
+      {
+        "label": "Target pests",
+        "value": "Aphids, jassids, whiteflies, thrips"
+      },
+      {
+        "label": "Antidote",
+        "value": "None specific — treat symptomatically"
+      },
+      {
+        "label": "Mfg. Lic. No.",
+        "value": "336"
+      }
+    ],
+    "applications": [
+      "Sucking pests",
+      "Aphids",
+      "Jassids",
+      "Whiteflies",
+      "Thrips"
+    ]
+  },
+  {
+    "id": "success-4g-cartap-hydrochloride",
+    "partNo": "4% G",
+    "name": "Success 4G",
+    "category": "Insecticides",
+    "tagline": "Cartap Hydrochloride 4% G — granular protection for paddy against borers.",
+    "description": "Success 4G is a granular insecticide for agricultural use, formulated to control stem borer, leaf folder and whorl maggot in rice. It contains Cartap Hydrochloride 4% G, a broad-spectrum insecticide that works by both contact and ingestion. The ready-to-use granules are applied directly to the crop, releasing the active ingredient steadily for lasting protection. Store in the original pack in a cool, dry place, out of reach of children and away from open flame. Read the enclosed leaflet before use for approved dosage and application timing.",
+    "specs": [
+      {
+        "label": "Active ingredient",
+        "value": "Cartap Hydrochloride 4% G"
+      },
+      {
+        "label": "Formulation",
+        "value": "Granule (G)"
+      },
+      {
+        "label": "Net content",
+        "value": "5 kg"
+      },
+      {
+        "label": "Mode of action",
+        "value": "Contact & ingestion"
+      },
+      {
+        "label": "Target pests",
+        "value": "Stem borer, leaf folder, whorl maggot"
+      },
+      {
+        "label": "Crop",
+        "value": "Rice / paddy"
+      },
+      {
+        "label": "Antidote",
+        "value": "None specific — treat symptomatically"
+      }
+    ],
+    "applications": [
+      "Rice",
+      "Stem borer",
+      "Leaf folder",
+      "Whorl maggot"
+    ]
+  },
+  {
+    "id": "roarer-acephate-75-sp",
+    "partNo": "75% SP",
+    "name": "Roarer",
+    "category": "Insecticides",
+    "tagline": "Acephate 75% SP — powerful control of borers and sucking pests.",
+    "description": "Roarer is a broad-spectrum insecticide containing Acephate 75% SP, supplied as a soluble powder that dissolves readily for foliar spraying. Acephate is an organophosphate with both contact and systemic action. Roarer is recommended to control jassids, bollworms of cotton, aphids of safflower, stem borer, leaf folder, plant hopper and green leaf hopper of rice crops. Supplied in a 1 kg pack. Marked DANGER — handle with care, keep out of reach of children, and store in a cool, dry place. Read the enclosed leaflet before use.",
+    "specs": [
+      {
+        "label": "Active ingredient",
+        "value": "Acephate 75% SP"
+      },
+      {
+        "label": "Formulation",
+        "value": "Soluble Powder (SP)"
+      },
+      {
+        "label": "Net content",
+        "value": "1 kg"
+      },
+      {
+        "label": "Mode of action",
+        "value": "Contact & systemic (organophosphate)"
+      },
+      {
+        "label": "Target pests",
+        "value": "Jassids, bollworms, aphids, borers, hoppers"
+      },
+      {
+        "label": "Crops",
+        "value": "Rice, cotton, safflower"
+      },
+      {
+        "label": "Safety",
+        "value": "DANGER — handle with care"
+      }
+    ],
+    "applications": [
+      "Rice",
+      "Cotton",
+      "Safflower",
+      "Sucking pests",
+      "Borers"
+    ]
+  },
+  {
+    "id": "cobra-emamectin-benzoate-5-sg",
+    "partNo": "5% SG",
+    "name": "Cobra",
+    "category": "Insecticides",
+    "tagline": "Emamectin Benzoate 5% SG — effective control of caterpillars and borers.",
+    "description": "Cobra is an insecticide containing Emamectin Benzoate 5% SG (soluble granule). Emamectin benzoate acts mainly through ingestion, giving effective control of lepidopteran pests such as caterpillars, borers and leaf-eating larvae. Supplied as easy-to-mix soluble granules for foliar spraying. Apply at the first sign of pest incidence and repeat if required, ensuring thorough coverage of the foliage. Supplied in a 100 g pack. Marked DANGER — handle with care and keep out of reach of children.",
+    "specs": [
+      {
+        "label": "Active ingredient",
+        "value": "Emamectin Benzoate 5% SG"
+      },
+      {
+        "label": "Formulation",
+        "value": "Soluble Granule (SG)"
+      },
+      {
+        "label": "Net content",
+        "value": "100 g"
+      },
+      {
+        "label": "Mode of action",
+        "value": "Ingestion (translaminar)"
+      },
+      {
+        "label": "Target pests",
+        "value": "Caterpillars, borers, larvae"
+      },
+      {
+        "label": "Mfg. Lic. No.",
+        "value": "336"
+      },
+      {
+        "label": "Safety",
+        "value": "DANGER — handle with care"
+      }
+    ],
+    "applications": [
+      "Caterpillars",
+      "Borers",
+      "Leaf-eating larvae",
+      "Foliar spray"
+    ]
+  },
+  {
+    "id": "sri-mida-imidacloprid-17-8-sl",
+    "partNo": "17.8% SL",
+    "name": "Sri Mida",
+    "category": "Insecticides",
+    "tagline": "Imidacloprid 17.8% SL — systemic control of sucking pests.",
+    "description": "Sri Mida is a systemic insecticide containing Imidacloprid 17.8% SL, used as a foliar spray for the control of various sucking and other important insect pests of cotton, paddy, chillies, sugarcane, sunflower, okra and mango. As a systemic neonicotinoid it is taken up by the plant and protects new growth. Supplied in a 1000 ml pack. Marked POISON — no specific antidote is available; treat symptomatically. Handle with care, wear protective clothing, and read the enclosed leaflet before use.",
+    "specs": [
+      {
+        "label": "Active ingredient",
+        "value": "Imidacloprid 17.8% SL"
+      },
+      {
+        "label": "Formulation",
+        "value": "Soluble Liquid (SL)"
+      },
+      {
+        "label": "Net content",
+        "value": "1000 ml"
+      },
+      {
+        "label": "Mode of action",
+        "value": "Systemic (neonicotinoid)"
+      },
+      {
+        "label": "Target pests",
+        "value": "Sucking pests"
+      },
+      {
+        "label": "Crops",
+        "value": "Cotton, paddy, chillies, sugarcane, sunflower, okra, mango"
+      },
+      {
+        "label": "Safety",
+        "value": "POISON — no specific antidote"
+      }
+    ],
+    "applications": [
+      "Cotton",
+      "Paddy",
+      "Chillies",
+      "Sugarcane",
+      "Mango",
+      "Sucking pests"
+    ]
+  },
+  {
+    "id": "sl-neem-azadirachtin",
+    "partNo": "0.03% EC",
+    "name": "S.L. Neem",
+    "category": "Bio-Pesticides",
+    "tagline": "Azadirachtin 0.03% EC — neem-based botanical fungicide.",
+    "description": "S.L. Neem is a neem-oil-based botanical fungicide containing Azadirachtin 0.03% (300 PPM). Derived from neem, it is useful in the control of powdery mildew of bhindi (okra). Supplied as an emulsifiable concentrate that mixes with water for foliar spraying. Supplied in a 1 litre pack. Handle with care and read the enclosed leaflet before use for approved crops and dosage.",
+    "specs": [
+      {
+        "label": "Active ingredient",
+        "value": "Azadirachtin 0.03% (300 PPM)"
+      },
+      {
+        "label": "Base",
+        "value": "Neem oil based, EC"
+      },
+      {
+        "label": "Net content",
+        "value": "1 litre"
+      },
+      {
+        "label": "Type",
+        "value": "Botanical fungicide"
+      },
+      {
+        "label": "Recommended for",
+        "value": "Powdery mildew of okra"
+      },
+      {
+        "label": "Mfg. Lic. No.",
+        "value": "336"
+      }
+    ],
+    "applications": [
+      "Okra / bhindi",
+      "Powdery mildew",
+      "Botanical protection"
+    ]
+  },
+  {
+    "id": "sl-mite-plant-protector",
+    "partNo": "Botanical",
+    "name": "S.L. Mite",
+    "category": "Bio-Pesticides",
+    "tagline": "Botanical plant protector — natural lactones & alkaloids, non-toxic.",
+    "description": "S.L. Mite is a plant protector produced from biogenic substances, containing natural lactones and natural alkaloids. It promotes plant growth and improves the quality of yields, and because it is derived from natural sources it is non-toxic to plants, animals and human beings. Recommended for paddy, cotton, chillies, grapes, coffee, tea, vegetables and horticultural crops. Dosage: 1.5 to 2 ml in 1 litre of water. Supplied in a 1000 ml pack.",
+    "specs": [
+      {
+        "label": "Natural lactones",
+        "value": "0.4%"
+      },
+      {
+        "label": "Natural alkaloids",
+        "value": "0.2%"
+      },
+      {
+        "label": "Aqueous media",
+        "value": "99.4%"
+      },
+      {
+        "label": "Type",
+        "value": "Botanical plant protector"
+      },
+      {
+        "label": "Net content",
+        "value": "1000 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "1.5–2 ml per litre of water"
+      },
+      {
+        "label": "Safety",
+        "value": "Non-toxic, biogenic"
+      }
+    ],
+    "applications": [
+      "Paddy",
+      "Cotton",
+      "Chillies",
+      "Grapes",
+      "Coffee",
+      "Tea"
+    ]
+  },
+  {
+    "id": "gemini-bio-rational-protectant",
+    "partNo": "Botanical",
+    "name": "Gemini",
+    "category": "Bio-Pesticides",
+    "tagline": "Bio-rational protectant — plant-extract defence against viral diseases.",
+    "description": "Gemini is a bio-rational plant protectant based on a novel formula of triterpene saponins, alcohols, oleanolic acid, ascorbic acid and tannins isolated from selected herbs. It protects the plant from invading pathogens by inducing active resistance in the plant system, so the nucleic acid of viruses cannot multiply in the plant cells because of hypersensitive reactions, helping prevent viral diseases in an eco-friendly way. Recommended for chillies, pulses, vegetables and fruits. Dosage: 250 ml per acre; repeat every 9–12 days. Shake well before use. Supplied in a 250 ml pack.",
+    "specs": [
+      {
+        "label": "Saponins & alcohols",
+        "value": "33.0%"
+      },
+      {
+        "label": "Plant extracts",
+        "value": "67.0%"
+      },
+      {
+        "label": "Type",
+        "value": "Bio-rational protectant"
+      },
+      {
+        "label": "Net content",
+        "value": "250 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "250 ml per acre"
+      },
+      {
+        "label": "Interval",
+        "value": "Repeat every 9–12 days"
+      },
+      {
+        "label": "Shelf life",
+        "value": "2 years from mfg."
+      }
+    ],
+    "applications": [
+      "Chillies",
+      "Pulses",
+      "Vegetables",
+      "Fruits",
+      "Viral disease management"
+    ]
+  },
+  {
+    "id": "spyke-botanical-alkaloids",
+    "partNo": "Botanical",
+    "name": "Spyke",
+    "category": "Bio-Pesticides",
+    "tagline": "Natural alkaloids — builds immunity against sucking pests.",
+    "description": "Spyke contains natural alkaloids from different plant sources, which help the plant build immunity against sucking pests such as thrips, mites and whiteflies. Recommended for chilli, cotton, soyabean, jasmine, tea, vegetables, citrus, floriculture and horticulture crops. Dosage: mix 2 ml in 1 litre of water for foliar spray. Caution: irritant to the eyes and mucous membrane — use carefully; no specific antidote, treat symptomatically. For agricultural use only. Shake well before use. Supplied in a 1 litre pack.",
+    "specs": [
+      {
+        "label": "Concentrated natural derivatives",
+        "value": "3.6%"
+      },
+      {
+        "label": "Activators & stabilizers",
+        "value": "10.4%"
+      },
+      {
+        "label": "Oil base with emulsifiers",
+        "value": "86.0%"
+      },
+      {
+        "label": "Net content",
+        "value": "1 litre"
+      },
+      {
+        "label": "Dose",
+        "value": "2 ml per litre of water"
+      },
+      {
+        "label": "Target pests",
+        "value": "Thrips, mites, whiteflies"
+      }
+    ],
+    "applications": [
+      "Chilli",
+      "Cotton",
+      "Soyabean",
+      "Tea",
+      "Citrus",
+      "Sucking pests"
+    ]
+  },
+  {
+    "id": "haazinc-zinc-edta-12",
+    "partNo": "Zn-EDTA 12%",
+    "name": "Haazinc",
+    "category": "Micronutrients",
+    "tagline": "Chelated Zinc (Zn-EDTA 12%) — corrects zinc deficiency in crops.",
+    "description": "Haazinc is a chelated zinc micronutrient supplying a minimum 12% zinc as Zn-EDTA by weight. Zinc is an essential plant nutrient, and its deficiency limits crop growth and yield. Applied as a foliar spray, Haazinc corrects and prevents zinc deficiency, helping standing crops grow more vigorously. Rate of application: dissolve 100 g in 100 litres of water and spray over one acre, increasing the dose with the severity of deficiency. Supplied in a 500 g pack. Store in a cool, dry place away from children.",
+    "specs": [
+      {
+        "label": "Nutrient",
+        "value": "Zinc (Zn), chelated"
+      },
+      {
+        "label": "Zinc content",
+        "value": "12% min. as Zn-EDTA"
+      },
+      {
+        "label": "Formulation",
+        "value": "Chelated Zn-EDTA"
+      },
+      {
+        "label": "Net content",
+        "value": "500 g"
+      },
+      {
+        "label": "Application",
+        "value": "Foliar spray"
+      },
+      {
+        "label": "Dose",
+        "value": "100 g in 100 L water per acre"
+      },
+      {
+        "label": "Shelf life",
+        "value": "Best before 3 years"
+      }
+    ],
+    "applications": [
+      "Zinc deficiency correction",
+      "Foliar nutrition",
+      "Standing crops"
+    ]
+  },
+  {
+    "id": "sl-max-micronutrient-mixture",
+    "partNo": "Formula 4",
+    "name": "S.L. Max",
+    "category": "Micronutrients",
+    "tagline": "Multi-micronutrient foliar fertilizer — corrects micronutrient deficiencies.",
+    "description": "S.L. Max is a high-performance multi-micronutrient fertilizer for foliar spray, a 100% water-soluble powder with a chelating agent and nutrient content guaranteed on a dry-matter basis. It supplies iron, manganese, zinc, copper, molybdenum and boron together to correct and prevent micronutrient deficiencies. The product is buffered with magnesium for enhanced performance (boron and molybdenum are not chelated). Directions: dissolve 5 g per litre of water for foliar application, increasing the dose with the crop and extent of deficiency. This is Formulation No. 4, meant for citrus. Supplied in a 250 g pack.",
+    "specs": [
+      {
+        "label": "Type",
+        "value": "Multi-micronutrient, water-soluble"
+      },
+      {
+        "label": "Iron (Fe)",
+        "value": "4.0%"
+      },
+      {
+        "label": "Manganese (Mn)",
+        "value": "3.0%"
+      },
+      {
+        "label": "Zinc (Zn)",
+        "value": "6.0%"
+      },
+      {
+        "label": "Copper (Cu)",
+        "value": "1.0%"
+      },
+      {
+        "label": "Molybdenum (Mo)",
+        "value": "0.05%"
+      },
+      {
+        "label": "Boron (B)",
+        "value": "2.0%"
+      },
+      {
+        "label": "Net content",
+        "value": "250 g"
+      },
+      {
+        "label": "Dose",
+        "value": "5 g per litre of water"
+      }
+    ],
+    "applications": [
+      "Citrus",
+      "Foliar nutrition",
+      "Micronutrient deficiency"
+    ]
+  },
+  {
+    "id": "sky-gibberellic-acid",
+    "partNo": "GA 0.001%",
+    "name": "Sky",
+    "category": "Plant Growth Regulators",
+    "tagline": "Gibberellic Acid 0.001% — plant growth regulator for vigour and yield.",
+    "description": "Sky is a plant growth regulator containing Gibberellic Acid 0.001% L. Gibberellic acid promotes cell elongation, uniform growth, flowering and better fruit development when applied at the right crop stage. Supplied in a 250 ml pack. Read the enclosed leaflet before use for approved crops, dosage and timing, and handle with care.",
+    "specs": [
+      {
+        "label": "Active ingredient",
+        "value": "Gibberellic Acid 0.001% L"
+      },
+      {
+        "label": "Type",
+        "value": "Plant growth regulator"
+      },
+      {
+        "label": "Net content",
+        "value": "250 ml"
+      },
+      {
+        "label": "Mfg. Lic. No.",
+        "value": "336"
+      }
+    ],
+    "applications": [
+      "Growth promotion",
+      "Flowering",
+      "Fruit development"
+    ]
+  },
+  {
+    "id": "punch-nitrobenzene-50",
+    "partNo": "Nitrobenzene 50%",
+    "name": "Punch",
+    "category": "Plant Growth Regulators",
+    "tagline": "Nitrobenzene 50% — flowering stimulant and yield booster.",
+    "description": "Punch is a research-based plant energizer containing 50% Nitrobenzene with naturally available vegetable protein. It acts as a flowering stimulant and yield booster, enhancing the plant canopy and inducing profuse flowering to increase yield. For crops such as cotton, paddy, wheat, soyabean, chillies, brinjal, tomato and other vegetables, pulses, oil seed, fruits and flowering crops, spraying once every 25 days after 15 days of sowing or transplantation increases yield significantly. Compatible with pesticides and fungicides. Dosage: 2–3 ml per litre of water. Supplied in a 1000 ml pack.",
+    "specs": [
+      {
+        "label": "Nitrobenzene",
+        "value": "50% w/w"
+      },
+      {
+        "label": "Surfactant",
+        "value": "50% w/w"
+      },
+      {
+        "label": "Type",
+        "value": "Flowering stimulant / energizer"
+      },
+      {
+        "label": "Net content",
+        "value": "1000 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "2–3 ml per litre of water"
+      },
+      {
+        "label": "Interval",
+        "value": "Every 25 days"
+      }
+    ],
+    "applications": [
+      "Cotton",
+      "Paddy",
+      "Wheat",
+      "Chillies",
+      "Flowering",
+      "Yield boost"
+    ]
+  },
+  {
+    "id": "power-gold-plant-energizer",
+    "partNo": "Amino 10%",
+    "name": "Power Gold",
+    "category": "Plant Growth Regulators",
+    "tagline": "Vegetable-protein energizer — flowering stimulant and yield booster.",
+    "description": "Power Gold is a research-based product with naturally available vegetable protein. It acts as a plant energizer, flowering stimulant and yield booster, enhancing the plant canopy and inducing profuse flowering to increase yield. For crops such as cotton, paddy, wheat, soyabean, chillies, brinjal, tomato and other vegetables, pulses, oil seed, fruits and flowering crops, spraying once every 25 days after 15 days of sowing or transplantation increases yield significantly. Dosage: mix 2–3 ml in one litre of water. Supplied in a 1000 ml pack.",
+    "specs": [
+      {
+        "label": "Amino acid",
+        "value": "10% w/w"
+      },
+      {
+        "label": "Aqua media",
+        "value": "90% w/w"
+      },
+      {
+        "label": "Type",
+        "value": "Plant energizer / flowering stimulant"
+      },
+      {
+        "label": "Net content",
+        "value": "1000 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "2–3 ml per litre of water"
+      },
+      {
+        "label": "Interval",
+        "value": "Every 25 days"
+      }
+    ],
+    "applications": [
+      "Cotton",
+      "Paddy",
+      "Wheat",
+      "Flowering",
+      "Yield boost"
+    ]
+  },
+  {
+    "id": "khadgam-humic-acid-90",
+    "partNo": "Humic 90%",
+    "name": "Khadgam",
+    "category": "Bio-Stimulants",
+    "tagline": "Humic acid 90% — boosts germination, vigour and nutrient uptake.",
+    "description": "Khadgam is a plant growth promoter containing 90% humic acid. It accelerates germination, enhances seedling vigour and growth, improves the uptake and translocation of micro and macro nutrients, and induces early maturity for stronger plants and better yields. Dosage: foliar application at 100 g per acre — dissolve 1 g in 1 litre of water, then add to sufficient water for coverage. Can be tank-mixed with most pesticides after separate dilution. Supplied in a 100 g pack.",
+    "specs": [
+      {
+        "label": "Composition",
+        "value": "Humic acid 90% w/w"
+      },
+      {
+        "label": "Other ingredients",
+        "value": "10% w/w"
+      },
+      {
+        "label": "Type",
+        "value": "Plant growth promoter"
+      },
+      {
+        "label": "Net content",
+        "value": "100 g"
+      },
+      {
+        "label": "Application",
+        "value": "Foliar spray"
+      },
+      {
+        "label": "Dose",
+        "value": "100 g per acre"
+      },
+      {
+        "label": "Shelf life",
+        "value": "2 years from mfg."
+      }
+    ],
+    "applications": [
+      "Germination",
+      "Seedling vigour",
+      "Nutrient uptake",
+      "Early maturity"
+    ]
+  },
+  {
+    "id": "champion-humic-acid-90",
+    "partNo": "Humic 90%",
+    "name": "Champion",
+    "category": "Bio-Stimulants",
+    "tagline": "Humic acid 90% — accelerates germination and crop growth.",
+    "description": "Champion is a plant growth promoter containing 90% humic acid. It accelerates germination, enhances seedling vigour and growth, improves the uptake and translocation of micro and macro nutrients, and induces early maturity for stronger plants and higher yields. Dosage: foliar application at 100 g per acre — dissolve 1 g in 1 litre of water, then add to sufficient water for coverage. Can be tank-mixed with most pesticides after separate dilution. Supplied in a 100 g pack.",
+    "specs": [
+      {
+        "label": "Composition",
+        "value": "Humic acid 90% w/w"
+      },
+      {
+        "label": "Other ingredients",
+        "value": "10% w/w"
+      },
+      {
+        "label": "Type",
+        "value": "Plant growth promoter"
+      },
+      {
+        "label": "Net content",
+        "value": "100 g"
+      },
+      {
+        "label": "Application",
+        "value": "Foliar spray"
+      },
+      {
+        "label": "Dose",
+        "value": "100 g per acre"
+      },
+      {
+        "label": "Shelf life",
+        "value": "2 years from mfg."
+      }
+    ],
+    "applications": [
+      "Germination",
+      "Seedling vigour",
+      "Nutrient uptake",
+      "Early maturity"
+    ]
+  },
+  {
+    "id": "empire-organic-bio-stimulant",
+    "partNo": "Humic 15%",
+    "name": "Empire",
+    "category": "Bio-Stimulants",
+    "tagline": "Hydrolysed protein & humic acid — organic bio-stimulant for stronger crops.",
+    "description": "Empire is a liquid organic bio-stimulant developed from a natural source. It stimulates the secretion of hormones needed for plant growth and chelates nutrients, especially iron, into a soluble form for easy uptake, improving micronutrient availability with reported yield increases of up to 30%. It promotes germination and vigour, chlorophyll development, root formation, water-holding capacity, soil aeration and drought resistance, while helping crops resist diseases and pests. Suitable for agriculture, horticulture and ornamentals. Dosage: 3 ml per litre of water. Supplied in a 1000 ml pack.",
+    "specs": [
+      {
+        "label": "Hydrolysed protein",
+        "value": "2.0% w/w"
+      },
+      {
+        "label": "Humic acid",
+        "value": "15.0% w/w"
+      },
+      {
+        "label": "Aqua media",
+        "value": "83.0% w/w"
+      },
+      {
+        "label": "Type",
+        "value": "Liquid organic bio-stimulant"
+      },
+      {
+        "label": "Net content",
+        "value": "1000 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "3 ml per litre of water"
+      }
+    ],
+    "applications": [
+      "Germination",
+      "Root development",
+      "Nutrient uptake",
+      "Ornamentals"
+    ]
+  },
+  {
+    "id": "teja-humic-acid-15",
+    "partNo": "Humic 15%",
+    "name": "Teja",
+    "category": "Bio-Stimulants",
+    "tagline": "Humic acid 15% — organic bio-stimulant for root growth and yield.",
+    "description": "Teja is a liquid organic bio-stimulant developed from a natural source, containing 15% humic acid with hydrolysed protein and carbohydrates. It stimulates growth hormones, chelates nutrients (especially iron) into a soluble form for easy uptake, and promotes germination, chlorophyll development, root formation, water-holding capacity, soil aeration and drought resistance, with reported yield increases of up to 30%. Suitable for agriculture, horticulture and ornamentals. Dosage: 3 ml per litre of water. Supplied in a 1000 ml pack.",
+    "specs": [
+      {
+        "label": "Total dissolved solids",
+        "value": "23% w/w"
+      },
+      {
+        "label": "Hydrolysed protein",
+        "value": "8% w/w"
+      },
+      {
+        "label": "Hydrolysed carbohydrates",
+        "value": "7% w/w"
+      },
+      {
+        "label": "Humic acid",
+        "value": "15% w/w"
+      },
+      {
+        "label": "Filler & carriers",
+        "value": "47% w/w"
+      },
+      {
+        "label": "Net content",
+        "value": "1000 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "3 ml per litre of water"
+      }
+    ],
+    "applications": [
+      "Root development",
+      "Nutrient uptake",
+      "Yield boost",
+      "Horticulture"
+    ]
+  },
+  {
+    "id": "hunk-humic-acid-15",
+    "partNo": "Humic 15%",
+    "name": "Hunk",
+    "category": "Bio-Stimulants",
+    "tagline": "Humic acid 15% — organic bio-stimulant for root growth and yield.",
+    "description": "Hunk is a liquid organic bio-stimulant developed from a natural source, containing 15% humic acid with hydrolysed protein. It stimulates growth hormones and chelates nutrients, especially iron, into a soluble form for easy uptake, improving micronutrient availability. It promotes germination and vigour, chlorophyll development, root formation, water-holding capacity, soil aeration and drought resistance, while helping crops resist diseases and pests. Suitable for agriculture, horticulture and ornamentals. Dosage: 3 ml per litre of water. Supplied in a 1000 ml pack.",
+    "specs": [
+      {
+        "label": "Hydrolysed protein",
+        "value": "2.0% w/w"
+      },
+      {
+        "label": "Humic acid",
+        "value": "15.0% w/w"
+      },
+      {
+        "label": "Aqua media",
+        "value": "83.0% w/w"
+      },
+      {
+        "label": "Type",
+        "value": "Liquid organic bio-stimulant"
+      },
+      {
+        "label": "Net content",
+        "value": "1000 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "3 ml per litre of water"
+      }
+    ],
+    "applications": [
+      "Root development",
+      "Nutrient uptake",
+      "Yield boost",
+      "Horticulture"
+    ]
+  },
+  {
+    "id": "yuava-amino-acid-granules",
+    "partNo": "Amino 10%",
+    "name": "Yuava Granules",
+    "category": "Bio-Stimulants",
+    "tagline": "Amino acid granules — boosts yield and builds stress tolerance.",
+    "description": "Yuava Granules is a natural bio-stimulant derived from cereal protein, containing 10% amino acids on a bentonite granule carrier. Applied to the soil, it leads to better yields, helps crops withstand stress and drought, increases tillering in paddy, and reduces flower and fruit dropping while developing resistance against diseases. Suitable for maize, paddy, sugarcane, banana, potato, onion, soyabean, chillies, cotton, vegetables and pulses. Dosage: 7 kg per acre depending on crop age. Non-toxic and eco-friendly. Supplied in a 7 kg pack.",
+    "specs": [
+      {
+        "label": "Composition",
+        "value": "Amino acid 10% w/w"
+      },
+      {
+        "label": "Carrier",
+        "value": "Bentonite granules 90% w/w"
+      },
+      {
+        "label": "Type",
+        "value": "Amino acid bio-stimulant"
+      },
+      {
+        "label": "Net content",
+        "value": "7 kg"
+      },
+      {
+        "label": "Application",
+        "value": "Soil application"
+      },
+      {
+        "label": "Dose",
+        "value": "7 kg per acre"
+      },
+      {
+        "label": "Safety",
+        "value": "Non-toxic, eco-friendly"
+      }
+    ],
+    "applications": [
+      "Maize",
+      "Paddy",
+      "Sugarcane",
+      "Cotton",
+      "Vegetables",
+      "Pulses"
+    ]
+  },
+  {
+    "id": "black-cobra-amino-acid",
+    "partNo": "Amino",
+    "name": "Black Cobra",
+    "category": "Bio-Stimulants",
+    "tagline": "Amino acid bio-stimulant — 16 free amino acids for all crops.",
+    "description": "Black Cobra is an eco-friendly bio-stimulant containing 16 free, bio-available, bio-assimilable and bio-degradable amino acids, with hydrolysed protein and carbohydrates. It supports plant growth and yield, is compatible with most commonly used agrochemicals, and is neither toxic nor harmful nor phototoxic. Recommended for all crops. Dosage: 100 g per acre after dilution; spray at critical stages such as flowering and fruit initiation. Supplied in a 100 ml pack.",
+    "specs": [
+      {
+        "label": "Total dissolved solids",
+        "value": "32% w/w"
+      },
+      {
+        "label": "Hydrolysed protein",
+        "value": "8% w/w"
+      },
+      {
+        "label": "Hydrolysed carbohydrates",
+        "value": "7% w/w"
+      },
+      {
+        "label": "Amino nitrogen",
+        "value": "5.5% w/w"
+      },
+      {
+        "label": "Filler & carriers",
+        "value": "47.5% w/w"
+      },
+      {
+        "label": "Net content",
+        "value": "100 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "100 g per acre"
+      }
+    ],
+    "applications": [
+      "All crops",
+      "Flowering",
+      "Fruit initiation",
+      "Yield boost"
+    ]
+  },
+  {
+    "id": "bullet-amino-acid",
+    "partNo": "Amino",
+    "name": "Bullet",
+    "category": "Bio-Stimulants",
+    "tagline": "Amino acid bio-stimulant — 16 free amino acids for higher yields.",
+    "description": "Bullet is an eco-friendly bio-stimulant containing 16 free, bio-available, bio-assimilable and bio-degradable amino acids, with hydrolysed protein and carbohydrates. It supports plant growth and higher yields, is compatible with most commonly used agrochemicals, and is neither toxic nor harmful nor phototoxic. Recommended for all crops. Dosage: 250 ml per acre after dilution; spray at critical stages such as flowering and fruit initiation. Supplied in a 250 ml pack.",
+    "specs": [
+      {
+        "label": "Total dissolved solids",
+        "value": "32% w/w"
+      },
+      {
+        "label": "Hydrolysed protein",
+        "value": "8% w/w"
+      },
+      {
+        "label": "Hydrolysed carbohydrates",
+        "value": "7% w/w"
+      },
+      {
+        "label": "Amino nitrogen",
+        "value": "5.5% w/w"
+      },
+      {
+        "label": "Filler & carriers",
+        "value": "47.5% w/w"
+      },
+      {
+        "label": "Net content",
+        "value": "250 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "250 ml per acre"
+      }
+    ],
+    "applications": [
+      "All crops",
+      "Flowering",
+      "Fruit initiation",
+      "Yield boost"
+    ]
+  },
+  {
+    "id": "power-amino-acid",
+    "partNo": "Amino",
+    "name": "Power",
+    "category": "Bio-Stimulants",
+    "tagline": "Amino acid bio-stimulant — 16 free amino acids for high yields.",
+    "description": "Power is an eco-friendly bio-stimulant containing 16 free, bio-available, bio-assimilable and bio-degradable amino acids, with hydrolysed protein and carbohydrates. It supports plant growth and high yields, is compatible with most commonly used agrochemicals, and is neither toxic nor harmful nor phototoxic. Recommended for all crops. Dosage: 100 g per acre after dilution; spray at critical stages such as flowering and fruit initiation. Supplied in a 100 g pack.",
+    "specs": [
+      {
+        "label": "Total dissolved solids",
+        "value": "32% w/w"
+      },
+      {
+        "label": "Hydrolysed protein",
+        "value": "8% w/w"
+      },
+      {
+        "label": "Hydrolysed carbohydrates",
+        "value": "7% w/w"
+      },
+      {
+        "label": "Amino nitrogen",
+        "value": "5.5% w/w"
+      },
+      {
+        "label": "Filler & carriers",
+        "value": "47.5% w/w"
+      },
+      {
+        "label": "Net content",
+        "value": "100 g"
+      },
+      {
+        "label": "Dose",
+        "value": "100 g per acre"
+      }
+    ],
+    "applications": [
+      "All crops",
+      "Flowering",
+      "Fruit initiation",
+      "Yield boost"
+    ]
+  },
+  {
+    "id": "all-winner-plant-growth-regulator",
+    "partNo": "Amino",
+    "name": "All Winner",
+    "category": "Bio-Stimulants",
+    "tagline": "Amino acid growth regulator — more flowers, better fruit set, bumper yield.",
+    "description": "All Winner is a plant growth regulator offering a one-stop solution for plant needs. Based on an amino-acid formula with hydrolysed protein and carbohydrates, it prevents flower shedding, promotes more flower formation for a bumper yield, and enhances healthy fruit formation and vegetative growth. It also improves the crop's immunity, helping repel insects and pests. Directions: dilute 2.5 ml in 1 litre of water and apply at the vegetative, flowering and fruit-formation stages. Use the diluted solution immediately. Supplied in a 1000 ml pack.",
+    "specs": [
+      {
+        "label": "Total dissolved solids",
+        "value": "32% w/w"
+      },
+      {
+        "label": "Hydrolysed protein",
+        "value": "8% w/w"
+      },
+      {
+        "label": "Hydrolysed carbohydrates",
+        "value": "7% w/w"
+      },
+      {
+        "label": "Amino nitrogen",
+        "value": "5.5% w/w"
+      },
+      {
+        "label": "Filler & carriers",
+        "value": "47.5% w/w"
+      },
+      {
+        "label": "Net content",
+        "value": "1000 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "2.5 ml per litre of water"
+      }
+    ],
+    "applications": [
+      "Flower formation",
+      "Fruit set",
+      "Vegetative growth",
+      "All crops"
+    ]
+  },
+  {
+    "id": "all-n-xl-plant-growth-regulator",
+    "partNo": "Amino",
+    "name": "All 'N' XL",
+    "category": "Bio-Stimulants",
+    "tagline": "Amino acid growth regulator — one-stop solution for flowering and fruit set.",
+    "description": "All 'N' XL is a plant growth regulator providing a one-stop solution for plant needs. Based on an amino-acid formula with hydrolysed protein and carbohydrates, it prevents flower shedding, promotes more flower formation and bumper yield, and enhances healthy fruit formation and vegetative growth. It improves the crop's immunity, helping repel insects and pests. Directions: dilute 2.5 ml in 1 litre of water and apply at the vegetative, flowering and fruit-formation stages. Use the diluted solution immediately. Supplied in a 1000 ml pack.",
+    "specs": [
+      {
+        "label": "Total dissolved solids",
+        "value": "32% w/w"
+      },
+      {
+        "label": "Hydrolysed protein",
+        "value": "8% w/w"
+      },
+      {
+        "label": "Hydrolysed carbohydrates",
+        "value": "7% w/w"
+      },
+      {
+        "label": "Amino nitrogen",
+        "value": "5.5% w/w"
+      },
+      {
+        "label": "Filler & carriers",
+        "value": "47.5% w/w"
+      },
+      {
+        "label": "Net content",
+        "value": "1000 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "2.5 ml per litre of water"
+      }
+    ],
+    "applications": [
+      "Flower formation",
+      "Fruit set",
+      "Vegetative growth",
+      "All crops"
+    ]
+  },
+  {
+    "id": "clear-plant-growth-regulator",
+    "partNo": "Amino",
+    "name": "Clear",
+    "category": "Bio-Stimulants",
+    "tagline": "Amino acid growth regulator — one-stop solution for flowering and yield.",
+    "description": "Clear is a plant growth regulator providing a one-stop solution for plant needs. Based on an amino-acid formula with hydrolysed protein and carbohydrates, it prevents flower shedding, promotes more flower formation and bumper yield, and enhances healthy fruit formation and vegetative growth. It improves the crop's immunity, helping repel insects and pests. Directions: dilute 2.5 ml in 1 litre of water and apply at the vegetative, flowering and fruit-formation stages. Use the diluted solution immediately. Supplied in a 1000 ml pack.",
+    "specs": [
+      {
+        "label": "Total dissolved solids",
+        "value": "32% w/w"
+      },
+      {
+        "label": "Hydrolysed protein",
+        "value": "8% w/w"
+      },
+      {
+        "label": "Hydrolysed carbohydrates",
+        "value": "7% w/w"
+      },
+      {
+        "label": "Amino nitrogen",
+        "value": "5.5% w/w"
+      },
+      {
+        "label": "Filler & carriers",
+        "value": "47.5% w/w"
+      },
+      {
+        "label": "Net content",
+        "value": "1000 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "2.5 ml per litre of water"
+      }
+    ],
+    "applications": [
+      "Flower formation",
+      "Fruit set",
+      "Vegetative growth",
+      "All crops"
+    ]
+  },
+  {
+    "id": "don-amino-acid",
+    "partNo": "Amino",
+    "name": "Don",
+    "category": "Bio-Stimulants",
+    "tagline": "Amino acid bio-stimulant — 16 free amino acids for all crops.",
+    "description": "Don is an amino-acids-based bio-stimulant for all crops, containing 16 free, bio-available, bio-assimilable and bio-degradable amino acids with hydrolysed protein and carbohydrates. It supports plant growth and high yields, is compatible with most commonly used agrochemicals, and is neither toxic nor harmful nor phototoxic. Dosage: 250 ml per acre after dilution; spray at critical stages such as flowering and fruit initiation. Supplied in a 1000 ml pack.",
+    "specs": [
+      {
+        "label": "Total dissolved solids",
+        "value": "32% w/w"
+      },
+      {
+        "label": "Hydrolysed protein",
+        "value": "8% w/w"
+      },
+      {
+        "label": "Hydrolysed carbohydrates",
+        "value": "7% w/w"
+      },
+      {
+        "label": "Amino nitrogen",
+        "value": "5.5% w/w"
+      },
+      {
+        "label": "Filler & carriers",
+        "value": "47.5% w/w"
+      },
+      {
+        "label": "Net content",
+        "value": "1000 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "250 ml per acre"
+      }
+    ],
+    "applications": [
+      "All crops",
+      "Flowering",
+      "Fruit initiation",
+      "Yield boost"
+    ]
+  },
+  {
+    "id": "pilot-amino-acid",
+    "partNo": "Amino",
+    "name": "Pilot",
+    "category": "Bio-Stimulants",
+    "tagline": "Amino acid bio-stimulant — 16 free amino acids for high yields.",
+    "description": "Pilot is an eco-friendly bio-stimulant containing 16 free, bio-available, bio-assimilable and bio-degradable amino acids, with hydrolysed protein and carbohydrates. It supports plant growth and high yields, is compatible with most commonly used agrochemicals, and is neither toxic nor harmful nor phototoxic. Recommended for all crops. Dosage: use 250 ml in 120 litres of water; spray at critical stages such as flowering and fruit initiation. Supplied in a 250 ml pack.",
+    "specs": [
+      {
+        "label": "Total dissolved solids",
+        "value": "32% w/w"
+      },
+      {
+        "label": "Hydrolysed protein",
+        "value": "8% w/w"
+      },
+      {
+        "label": "Hydrolysed carbohydrates",
+        "value": "7% w/w"
+      },
+      {
+        "label": "Amino nitrogen",
+        "value": "5.5% w/w"
+      },
+      {
+        "label": "Filler & carriers",
+        "value": "47.5% w/w"
+      },
+      {
+        "label": "Net content",
+        "value": "250 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "250 ml in 120 L water"
+      }
+    ],
+    "applications": [
+      "All crops",
+      "Flowering",
+      "Fruit initiation",
+      "Yield boost"
+    ]
+  },
+  {
+    "id": "simha-amino-acid",
+    "partNo": "Amino",
+    "name": "Simha",
+    "category": "Bio-Stimulants",
+    "tagline": "Amino acid plant protector — 16 free amino acids for high yields.",
+    "description": "Simha is a plant protector containing 16 free, bio-available, bio-assimilable and bio-degradable amino acids, with hydrolysed protein and carbohydrates. It supports plant growth and high yields, is compatible with most commonly used agrochemicals, and is neither toxic nor harmful nor phototoxic. Recommended for all crops. Dosage: 100 ml per acre after dilution; spray at critical stages such as flowering and fruit initiation. Supplied in a 100 ml pack.",
+    "specs": [
+      {
+        "label": "Total dissolved solids",
+        "value": "32% w/w"
+      },
+      {
+        "label": "Hydrolysed protein",
+        "value": "8% w/w"
+      },
+      {
+        "label": "Hydrolysed carbohydrates",
+        "value": "7% w/w"
+      },
+      {
+        "label": "Amino nitrogen",
+        "value": "5.5% w/w"
+      },
+      {
+        "label": "Filler & carriers",
+        "value": "47.5% w/w"
+      },
+      {
+        "label": "Net content",
+        "value": "100 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "100 ml per acre"
+      }
+    ],
+    "applications": [
+      "All crops",
+      "Flowering",
+      "Fruit initiation",
+      "Yield boost"
+    ]
+  },
+  {
+    "id": "killer-amino-acid",
+    "partNo": "Amino",
+    "name": "Killer",
+    "category": "Bio-Stimulants",
+    "tagline": "Amino acid bio-stimulant — 16 free amino acids for all crops.",
+    "description": "Killer is an eco-friendly bio-stimulant containing 16 free, bio-available, bio-assimilable and bio-degradable amino acids, with hydrolysed protein and carbohydrates. It supports plant growth and high yields, is compatible with most commonly used agrochemicals, and is neither toxic nor harmful nor phototoxic. Recommended for all crops. Dosage: 250 ml per acre after dilution; spray at critical stages such as flowering and fruit initiation. Supplied in a 100 ml pack.",
+    "specs": [
+      {
+        "label": "Total dissolved solids",
+        "value": "32% w/w"
+      },
+      {
+        "label": "Hydrolysed protein",
+        "value": "8% w/w"
+      },
+      {
+        "label": "Hydrolysed carbohydrates",
+        "value": "7% w/w"
+      },
+      {
+        "label": "Amino nitrogen",
+        "value": "5.5% w/w"
+      },
+      {
+        "label": "Filler & carriers",
+        "value": "47.5% w/w"
+      },
+      {
+        "label": "Net content",
+        "value": "100 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "250 ml per acre"
+      }
+    ],
+    "applications": [
+      "All crops",
+      "Flowering",
+      "Fruit initiation",
+      "Yield boost"
+    ]
+  },
+  {
+    "id": "atm-bio-technology-stimulant",
+    "partNo": "Amino",
+    "name": "ATM",
+    "category": "Bio-Stimulants",
+    "tagline": "Advanced amino bio-stimulant — with auxin, cytokinins and minerals.",
+    "description": "ATM is an advanced bio-technology research product containing highly specialised bio components such as auxin, hormones, cytokinins, vitamins and minerals alongside amino acids. It helps stimulate plant growth, increase flowering, reduce flower dropping and improve fruit formation. Eco-friendly. Recommended crops: cotton, chillies, paddy, grapes, pulses, vegetables and horticultural crops. Dosage: mix 1 ml in 1 litre of water. For agricultural use only. Supplied in a 100 ml pack.",
+    "specs": [
+      {
+        "label": "Total dissolved solids",
+        "value": "32% w/w"
+      },
+      {
+        "label": "Hydrolysed protein",
+        "value": "8% w/w"
+      },
+      {
+        "label": "Hydrolysed carbohydrates",
+        "value": "7% w/w"
+      },
+      {
+        "label": "Amino nitrogen",
+        "value": "5.5% w/w"
+      },
+      {
+        "label": "Filler & carriers",
+        "value": "47.5% w/w"
+      },
+      {
+        "label": "Net content",
+        "value": "100 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "1 ml per litre of water"
+      }
+    ],
+    "applications": [
+      "Cotton",
+      "Chillies",
+      "Paddy",
+      "Grapes",
+      "Flowering",
+      "Fruit formation"
+    ]
+  },
+  {
+    "id": "bio-super-cereal-protein",
+    "partNo": "Amino",
+    "name": "Bio Super",
+    "category": "Bio-Stimulants",
+    "tagline": "Amino acid bio-stimulant — natural derivative from cereal protein.",
+    "description": "Bio Super is an amino-acids-based bio-stimulant and growth promoter, a natural derivative from cereal protein containing 16 free bio-available amino acids. This research-driven product is compatible with most commonly used agrochemicals and is neither toxic nor harmful nor phototoxic. Recommended for all crops at critical stages such as high growth, flowering and fruit initiation. Dosage: 300 ml per acre after dilution. Supplied in a 1000 ml pack.",
+    "specs": [
+      {
+        "label": "Total dissolved solids",
+        "value": "32% w/w"
+      },
+      {
+        "label": "Hydrolysed protein",
+        "value": "9–12% w/w"
+      },
+      {
+        "label": "Hydrolysed carbohydrates",
+        "value": "6–9% w/w"
+      },
+      {
+        "label": "Amino nitrogen",
+        "value": "3.5–4% w/w"
+      },
+      {
+        "label": "Net content",
+        "value": "1000 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "300 ml per acre"
+      }
+    ],
+    "applications": [
+      "All crops",
+      "Flowering",
+      "Fruit initiation",
+      "Yield boost"
+    ]
+  },
+  {
+    "id": "plantac-gold-amino-acid",
+    "partNo": "Amino",
+    "name": "Plantac Gold",
+    "category": "Bio-Stimulants",
+    "tagline": "Amino acid bio-stimulant — 16 free amino acids for all crops.",
+    "description": "Plantac Gold is a bio-stimulant containing 16 free, bio-available, bio-assimilable and bio-degradable amino acids with hydrolysed protein and carbohydrates. It supports plant growth and high yields, is compatible with most commonly used agrochemicals, and is neither toxic nor harmful nor phototoxic. Recommended for all crops. Dosage: 100 ml per acre after dilution; spray at critical stages such as flowering and fruit initiation. Supplied in a 250 ml pack.",
+    "specs": [
+      {
+        "label": "Total dissolved solids",
+        "value": "32.0% w/w"
+      },
+      {
+        "label": "Hydrolysed proteins",
+        "value": "2.0% w/w"
+      },
+      {
+        "label": "Hydrolysed carbohydrates",
+        "value": "2.0% w/w"
+      },
+      {
+        "label": "Amino nitrogen",
+        "value": "5.5% w/w"
+      },
+      {
+        "label": "Fillers & carriers",
+        "value": "58.5% w/w"
+      },
+      {
+        "label": "Net content",
+        "value": "250 ml"
+      },
+      {
+        "label": "Dose",
+        "value": "100 ml per acre"
+      }
+    ],
+    "applications": [
+      "All crops",
+      "Flowering",
+      "Fruit initiation",
+      "Yield boost"
+    ]
+  },
+  {
+    "id": "tiger-plus-hydrolysed-protein",
+    "partNo": "Protein 35%",
+    "name": "Tiger Plus",
+    "category": "Bio-Stimulants",
+    "tagline": "Enzymatic hydrolysed proteins — plant protector for healthy, vigorous crops.",
+    "description": "Tiger Plus is a plant protector containing 35% enzymatic hydrolysed proteins, naturally derived to make plants healthy and vigorous. Applied as a foliar spray, it supports strong growth and better crop quality. Recommended for chilli, cotton, paddy and other fruit and vegetable crops. Dosage: 0.5 to 1 g per litre of water. Supplied in a 100 g pack.",
+    "specs": [
+      {
+        "label": "Enzymatic hydrolysed proteins",
+        "value": "35% w/w"
+      },
+      {
+        "label": "Fillers & carriers",
+        "value": "65% w/w"
+      },
+      {
+        "label": "Type",
+        "value": "Hydrolysed protein bio-stimulant"
+      },
+      {
+        "label": "Net content",
+        "value": "100 g"
+      },
+      {
+        "label": "Dose",
+        "value": "0.5–1 g per litre of water"
+      },
+      {
+        "label": "Shelf life",
+        "value": "2 years from mfg."
+      }
+    ],
+    "applications": [
+      "Chilli",
+      "Cotton",
+      "Paddy",
+      "Fruit crops",
+      "Vegetables"
+    ]
+  },
+  {
+    "id": "suguna-plant-growth-biostimulator",
+    "partNo": "Protein",
+    "name": "Suguna",
+    "category": "Bio-Stimulants",
+    "tagline": "Protein bio-stimulator — controls flower drop, improves quality and yield.",
+    "description": "Suguna is a plant growth biostimulator based on hydrolysed protein and amino acids. It improves crop yield qualitatively and quantitatively, controls flower drop and improves fruit setting, raises disease resistance, and improves the shelf life and keeping quality of the produce. Compatible with commonly used pesticides and fungicides. Directions: dissolve 500 ml of Suguna in 100 litres of water and spray over one acre — first spray 30 days after plantation, then two more sprays at 30-day intervals. Supplied in a 1 litre pack.",
+    "specs": [
+      {
+        "label": "Hydrolysed protein",
+        "value": "4.0% w/w"
+      },
+      {
+        "label": "Amino acid",
+        "value": "2.0% w/w"
+      },
+      {
+        "label": "Aqueous media",
+        "value": "92.0% w/w"
+      },
+      {
+        "label": "Type",
+        "value": "Plant growth biostimulator"
+      },
+      {
+        "label": "Net content",
+        "value": "1 litre"
+      },
+      {
+        "label": "Dose",
+        "value": "500 ml per acre"
+      }
+    ],
+    "applications": [
+      "Flower retention",
+      "Fruit set",
+      "Yield",
+      "Shelf life"
+    ]
+  },
+  {
+    "id": "salwin-gold-amino-fulvic",
+    "partNo": "Amino+Fulvic",
+    "name": "Salwin Gold",
+    "category": "Bio-Stimulants",
+    "tagline": "Amino & fulvic acid — bio-stimulant with 16 free amino acids.",
+    "description": "Salwin Gold is an eco-friendly bio-stimulant combining amino acid and fulvic acid, containing 16 free, bio-available, bio-assimilable and bio-degradable amino acids. It supports plant growth and high yields, is compatible with most commonly used agrochemicals, and is neither toxic nor harmful nor phototoxic. Recommended for all crops. Dosage: 250 ml per acre after dilution; spray at critical stages such as flowering and fruit initiation. Supplied in a 1 litre pack.",
+    "specs": [
+      {
+        "label": "Amino acid",
+        "value": "5.0% w/w"
+      },
+      {
+        "label": "Fulvic acid",
+        "value": "5.0% w/w"
+      },
+      {
+        "label": "Aqueous media",
+        "value": "90.0% w/w"
+      },
+      {
+        "label": "Type",
+        "value": "Amino & fulvic bio-stimulant"
+      },
+      {
+        "label": "Net content",
+        "value": "1 litre"
+      },
+      {
+        "label": "Dose",
+        "value": "250 ml per acre"
+      }
+    ],
+    "applications": [
+      "All crops",
+      "Flowering",
+      "Fruit initiation",
+      "Yield boost"
+    ]
+  }
+]

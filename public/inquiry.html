@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Inquire — SL Industries</title>
+  <meta name="description" content="Send an inquiry or request a quote from SL Industries." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800;900&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="wrap nav">
+      <a class="brand" href="index.html"><img class="brand-logo" src="images/logo.png" alt="SL Industries logo" /><span class="brand-mark">SL Industries</span> <span class="brand-sub">Crop Protection & Nutrition</span></a>
+      <button class="nav-toggle" aria-label="Menu">≡</button>
+      <nav class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="products.html">Products</a>
+        <a href="inquiry.html" class="nav-cta">Inquire</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head" style="max-width:60ch;">
+        <p class="eyebrow">Get in touch</p>
+        <h1>Make an enquiry</h1>
+        <p>Tell us which product you're interested in and the crop or quantity you have in mind, and our team will get back to you. Distributor and dealer enquiries are welcome.</p>
+      </div>
+
+      <div class="form-wrap">
+        <aside class="contact-aside">
+          <p class="eyebrow">Direct lines</p>
+          <div class="contact-item"><div class="k">Email</div><div class="v">slindustries9@gmail.com</div></div>
+          <div class="contact-item"><div class="k">Phone</div><div class="v">+91 98490 86110<br>+91 98481 43156</div></div>
+          <div class="contact-item"><div class="k">Hours</div><div class="v">Mon–Sat, 9:00–18:00</div></div>
+          <div class="contact-item"><div class="k">Address</div><div class="v">C1, Industrial Estate, Amaravathi Road, Gorantla, Guntur – 522 034, A.P.</div></div>
+        </aside>
+
+        <div class="form-card">
+          <form id="inquiry-form" novalidate>
+            <div class="field-row">
+              <div class="field">
+                <label for="name">Name <span class="req">*</span></label>
+                <input type="text" id="name" name="name" required autocomplete="name" />
+              </div>
+              <div class="field">
+                <label for="company">Company</label>
+                <input type="text" id="company" name="company" autocomplete="organization" />
+              </div>
+            </div>
+            <div class="field-row">
+              <div class="field">
+                <label for="email">Email <span class="req">*</span></label>
+                <input type="email" id="email" name="email" required autocomplete="email" />
+              </div>
+              <div class="field">
+                <label for="phone">Phone</label>
+                <input type="tel" id="phone" name="phone" autocomplete="tel" />
+              </div>
+            </div>
+            <div class="field">
+              <label for="product-select">Product of interest</label>
+              <select id="product-select" name="product">
+                <option value="">General inquiry</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="message">Your requirement <span class="req">*</span></label>
+              <textarea id="message" name="message" required placeholder="Which product, crop, pack size or quantity are you interested in? Any questions on dosage or availability?"></textarea>
+            </div>
+            <button type="submit" class="btn btn--signal">Send inquiry</button>
+            <div class="form-status" id="form-status" role="status" aria-live="polite"></div>
+            <p class="form-note">By sending this you agree we may contact you about your inquiry. We never share your details.</p>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="footer-top">
+        <a class="brand" href="index.html"><img class="brand-logo" src="images/logo.png" alt="SL Industries logo" /><span class="brand-mark" style="color:var(--signal)">SL Industries</span> <span class="brand-sub">Crop Protection & Nutrition</span></a>
+        <div class="footer-cols">
+          <div class="footer-col"><h4>Company</h4><a href="about.html">About</a><a href="products.html">Products</a><a href="inquiry.html">Inquire</a></div>
+          <div class="footer-col"><h4>Contact</h4><a href="mailto:slindustries9@gmail.com">slindustries9@gmail.com</a><a href="tel:+919849086110">+91 98490 86110</a><a href="tel:+919848143156">+91 98481 43156</a></div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2026 SL Industries</span>
+        <span>C1, Industrial Estate, Amaravathi Road, Gorantla, Guntur – 522 034, A.P.</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
